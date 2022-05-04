@@ -1,0 +1,19 @@
+.container {
+    width: 300px;
+    margin: auto;
+    background-color: orange;
+
+}
+
+/* Parent element must be located above children element */
+
+.btn {
+    display: inline-block; 
+    /* Properties that show elements on the screen */
+    padding: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
